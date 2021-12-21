@@ -1,3 +1,6 @@
+/*******************************************************************
+START PROJECT BY AHMED SHERZAD MOHAMMED /21908481
+ ********************************************************************/
 #include <stdio.h>
 #include <conio.h>
 
@@ -73,7 +76,7 @@ int main()
 }
 
 /*********************************************
-
+BY AHMED SHERZAD MOHAMMED /21908481
 FUNCTION TO RETURN GAME STATUS
 1 FOR GAME IS OVER WITH RESULT
 -1 FOR GAME IS IN PROGRESS
@@ -117,7 +120,7 @@ int checkwin()
 
 
 /*******************************************************************
-FUNCTION TO DRAW BOARD OF TIC TAC TOE WITH PLAYERS MARK
+FUNCTION TO DRAW BOARD OF TIC TAC TOE WITH PLAYERS MARK BY AHMED SHERZAD MOHAMMED /21908481
  ********************************************************************/
 
 
@@ -146,5 +149,5 @@ void board()
 }
 
 /*******************************************************************
-END OF PROJECT
+END OF PROJECT BY AHMED SHERZAD MOHAMMED /21908481
  ********************************************************************/
